@@ -1,2 +1,2 @@
-# pratica2_not1
+# pratica2_not
 Repositório de código e documentos para a disciplina de prática profissional 2 noturno
